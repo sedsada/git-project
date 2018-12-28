@@ -1,0 +1,11 @@
+test
+1231
+
+afdsdf
+<<<<<<< HEAD
+echo "HELLO";
+=======
+
+
+BRANCH MASTER
+>>>>>>> master
